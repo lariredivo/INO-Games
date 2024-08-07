@@ -67,6 +67,7 @@ First, I would review the bug report to ensure the steps to reproduce, environme
 
 ### **Hands-On Test**
 [Link for the report](https://docs.google.com/spreadsheets/d/1LyH2q7MyDGEcR8amnAudTkTc0HQ-npO06ZKMozPK2pE/edit?usp=sharing)
+
 **1. Game choosed:** [Bling Bling Penguin](https://slotcatalog.com/en/slots/Bling-Bling-Penguin)
 
 **2. Testing the game:** 
@@ -79,7 +80,7 @@ First, I would review the bug report to ensure the steps to reproduce, environme
 I would like to suggest the inclusion of a tutorial at the beginning of the game, which would explain the main buttons and gameplay mechanics. This would help new players get acquainted with the game quickly and improve their overall experience. Additionally, incorporating themed events, such as those related to Easter, the Olympics, Christmas, and other holidays or celebrations, could greatly enhance the game’s appeal and keep players engaged throughout the year.
 Moreover, consider adding features like customizable visual and audio settings to accommodate individual preferences and accessibility needs. Regular updates that introduce new content or improvements, as well as interactive bonus rounds or game modes
 **4.General Overview**
-- Even though this is not a question, we’d like to hear why you selected this game.
+- Why I selected this game?
 
 I selected this game because the song track is both exciting and engaging, which adds a dynamic and enjoyable atmosphere to the gameplay. Additionally, the animation of the spinning wheel is particularly captivating compared to other games I've played. The combination of these features creates a more immersive and stimulating gaming experience.
 
