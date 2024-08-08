@@ -69,7 +69,7 @@ The report is divided into two: bug report and test report. Test videos with sup
 
 [Link for the report](https://docs.google.com/spreadsheets/d/1LyH2q7MyDGEcR8amnAudTkTc0HQ-npO06ZKMozPK2pE/edit?usp=sharing)
 
-[Link for the test videos](https://drive.google.com/file/d/1Npl8MQaIGlbhNwC2JX1nDBAEtiLCYfxt/view?usp=sharing)
+[Link for the test videos](https://drive.google.com/drive/folders/1mRocsfo7QbiHbrq2sf7dBpQuF4MMXuEy?usp=sharing)
 
 **1. Game chosen:** [Bling Bling Penguin](https://slotcatalog.com/en/slots/Bling-Bling-Penguin)
 
