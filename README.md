@@ -22,7 +22,6 @@ Regression testing refers to the process that confirms that no adverse consequen
 released?**
 
 - ID: Unique identifier for each test case.
-- Status: Indicates the current state or progress of a test case (e.g., not started, blocked, failed, passed)
 - Title: A brief summary of the bug.
 - Description: Detailed description of the issue.
 - Steps to reproduce the bug: Detailed, step-by-step instructions to replicate the bug.
@@ -63,34 +62,41 @@ The Software Testing Life Cycle (STLC) ensures a systematic and structured appro
 reproducible' by the development team?**
 
 When a bug is marked as 'not reproducible' by the development team, I would take the following steps:
-First, I would review the bug report to ensure the steps to reproduce, environment details, and other information are clear and complete. Then, I would try to reproduce the issue in different environments or with different configurations. The next step that I would do is to talk about the issue with the development team to understand any potential differences in environments or steps. Following by providing additional evidence like more detailed logs, screenshots, videos, or any other relevant information. The last step would be to modify the bug report with any new findings or details that can help in reproducing the issue.
+First, I would review the bug report to ensure the steps to reproduce and I would also check if the environment details and other information are clear and complete. Then, I would try to reproduce the issue in different environments or with different configurations. The next step that I would take is to talk about the issue with the development team to understand any potential differences in environments or steps. After this, I would provide additional evidence like more detailed logs, screenshots, videos, or any other relevant information. The last step would be to modify the bug report with any new findings or details that can help in reproducing the issue.
 
 ### **Hands-On Test**
+The report is divided into two: bug report and test report. Test videos with supporting evidence are organized in a folder on Google Drive.
+
 [Link for the report](https://docs.google.com/spreadsheets/d/1LyH2q7MyDGEcR8amnAudTkTc0HQ-npO06ZKMozPK2pE/edit?usp=sharing)
 
-**1. Game choosed:** [Bling Bling Penguin](https://slotcatalog.com/en/slots/Bling-Bling-Penguin)
+[Link for the test videos](https://drive.google.com/file/d/1Npl8MQaIGlbhNwC2JX1nDBAEtiLCYfxt/view?usp=sharing)
+
+**1. Game chosen:** [Bling Bling Penguin](https://slotcatalog.com/en/slots/Bling-Bling-Penguin)
 
 **2. Testing the game:** 
-- Functional testing:
-- Usability testing:
-- Performance testing:
-- Bug report:
+- Functional testing:  identifier as FUNCT-XXXX for example
+- Usability testing: identifier as USAB-XXXX for example
+- Bug report: identifier as BUG-XXXX for example
+- Performance testing: ​​stress testing is a critical aspect of performance evaluation for gambling games played in a browser environment. This testing is designed to assess how well the game performs under extreme conditions, specifically when subjected to high levels of user traffic and simultaneous interactions. This involves simulating a large number of concurrent users, such as thousands of players, to observe how the game’s servers, application, and browser handle the pressure. I wasn't able to perform this kind of test
 
 **3. Suggestions for improvement:**
-I would like to suggest the inclusion of a tutorial at the beginning of the game, which would explain the main buttons and gameplay mechanics. This would help new players get acquainted with the game quickly and improve their overall experience. Additionally, incorporating themed events, such as those related to Easter, the Olympics, Christmas, and other holidays or celebrations, could greatly enhance the game’s appeal and keep players engaged throughout the year.
-Moreover, consider adding features like customizable visual and audio settings to accommodate individual preferences and accessibility needs. Regular updates that introduce new content or improvements, as well as interactive bonus rounds or game modes
-**4.General Overview**
-- Why I selected this game?
+I would like to suggest the inclusion of a tutorial at the beginning of the game, which would explain the main buttons and gameplay mechanics. This would help new players get to know the game quickly and improve their overall experience. Additionally, incorporating themed events, such as those related to Easter, the Olympics, Christmas, and other holidays or celebrations could greatly enhance the game’s appeal and keep players engaged throughout the year.
 
-I selected this game because the song track is both exciting and engaging, which adds a dynamic and enjoyable atmosphere to the gameplay. Additionally, the animation of the spinning wheel is particularly captivating compared to other games I've played. The combination of these features creates a more immersive and stimulating gaming experience.
+**4.General Overview**
+- Why did I choose this game?
+
+I selected this game because it stands out with its quirky penguin and rap soundtrack, which add a fun and distinctive touch. Besides, the animation of the spinning wheel is particularly captivating compared to other games I've played. The combination of these features creates a more immersive and stimulating gaming experience.
 
 - What are the ups and downs?
 
 **Ups:**
 
-- Engaging Audio and Visuals: The lively soundtrack and impressive animations enhance the overall excitement and immersion.
-- Interactive Features: The game offers interactive elements that keep players involved and entertained.
-- User-Friendly Interface: The interface is intuitive and easy to navigate, making the game accessible for both new and experienced players.
+- Engaging audio and visuals: The lively soundtrack and impressive animations enhance the overall excitement and immersion.
+- Interactive features: The game offers interactive elements that keep players involved and entertained.
+- User-friendly interface: The interface is intuitive and easy to navigate, making the game accessible for both new and experienced players.
+- Bonus Wheel: The chance to win cash prizes, free spins, or one of five fixed jackpots through the wheel is a notable feature that can lead to substantial rewards.
+- Free Spins Round: Can be retriggered and includes a gamble feature for those seeking extra spins, though it comes with the risk of losing the feature.
+- Bonus buy feature: Available for non-UK players, allowing direct access to the bonus features for a set cost.
 
 **Downs:**
 
@@ -99,12 +105,15 @@ I selected this game because the song track is both exciting and engaging, which
 - Limited Customization: There might be limited options for personalizing the gameplay experience, which could be a drawback for players seeking more control.
 - Sensory Overload: Despite the engaging audio and visual effects, the rapid and very colorful visual stimuli can cause discomfort or nausea for some players. It may be beneficial to include a warning for individuals with sensory sensitivities. Additionally, implementing options for less bright colors and accessibility features for color blindness could enhance the game's inclusivity.
 
+
 - What would you consider a factor that would make you play again?
 
-A key factor that would make me return to this game is the introduction of new and diverse features or updates. This could include additional bonus rounds or new game modes that refresh the gameplay experience. Regular updates that introduce innovative content or improvements would maintain excitement and encourage continued play. Additionally, the option to customize the visual and audio settings to cater to individual preferences and accessibility needs would enhance the overall experience and make me more likely to revisit the game.
+The possibility of hitting one of the five fixed jackpots, especially the Epic Jackpot worth up to 10,000x your stake, would definitely encourage me to play again. Also a key factor is the introduction of new and diverse features or updates. This could include additional bonus rounds or new game modes that refresh the gameplay experience. 
 
 - Was this an engaging experience?
 
 Yes, the game provided a highly engaging experience. The lively soundtrack and dynamic animations created a stimulating and immersive environment that kept me interested throughout my play session. Overall, the game’s engaging aspects were prominent, though there is room for improvement in terms of accessibility and customization to enhance the experience for a broader audience.
+
+
 
 
